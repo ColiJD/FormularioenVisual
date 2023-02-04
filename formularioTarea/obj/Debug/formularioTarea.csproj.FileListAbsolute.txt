@@ -1,0 +1,11 @@
+C:\Users\colin\Desktop\Primer Parcial 2023\ProgramacionVisual\formularioTarea\formularioTarea\bin\Debug\formularioTarea.exe.config
+C:\Users\colin\Desktop\Primer Parcial 2023\ProgramacionVisual\formularioTarea\formularioTarea\bin\Debug\formularioTarea.exe
+C:\Users\colin\Desktop\Primer Parcial 2023\ProgramacionVisual\formularioTarea\formularioTarea\bin\Debug\formularioTarea.pdb
+C:\Users\colin\Desktop\Primer Parcial 2023\ProgramacionVisual\formularioTarea\formularioTarea\obj\Debug\formularioTarea.csproj.AssemblyReference.cache
+C:\Users\colin\Desktop\Primer Parcial 2023\ProgramacionVisual\formularioTarea\formularioTarea\obj\Debug\formularioTarea.csproj.SuggestedBindingRedirects.cache
+C:\Users\colin\Desktop\Primer Parcial 2023\ProgramacionVisual\formularioTarea\formularioTarea\obj\Debug\formularioTarea.Form1.resources
+C:\Users\colin\Desktop\Primer Parcial 2023\ProgramacionVisual\formularioTarea\formularioTarea\obj\Debug\formularioTarea.Properties.Resources.resources
+C:\Users\colin\Desktop\Primer Parcial 2023\ProgramacionVisual\formularioTarea\formularioTarea\obj\Debug\formularioTarea.csproj.GenerateResource.cache
+C:\Users\colin\Desktop\Primer Parcial 2023\ProgramacionVisual\formularioTarea\formularioTarea\obj\Debug\formularioTarea.csproj.CoreCompileInputs.cache
+C:\Users\colin\Desktop\Primer Parcial 2023\ProgramacionVisual\formularioTarea\formularioTarea\obj\Debug\formularioTarea.exe
+C:\Users\colin\Desktop\Primer Parcial 2023\ProgramacionVisual\formularioTarea\formularioTarea\obj\Debug\formularioTarea.pdb
